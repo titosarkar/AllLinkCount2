@@ -25,7 +25,7 @@ public void alllinkCount(){
 	/*for (int i=0; i<AllLink.size(); i++){
 		System.out.println(AllLink.get(i).getText()+"-----------"+AllLink.get(i).isDisplayed());
 	}*/
-	
+	// This line edited in git repo
 	
 	fd.quit();
 
