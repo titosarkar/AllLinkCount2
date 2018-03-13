@@ -29,7 +29,7 @@ public class Paralleltest1 {
 	}
 	
 	
-	
+	//parallel testing in teestNG
 	
 	
 	@Test
