@@ -31,7 +31,7 @@ public class Paralleltest1 {
 	
 	//parallel testing in teestNG
 	// trying to pull 
-	
+	// trying to pull from eclipse
 	
 	@Test
 	public void tc1(){
